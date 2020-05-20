@@ -1,0 +1,19 @@
+org_name = "hemikak"
+version = "0.1.0"
+lockfile_version = "1.0.0"
+ballerina_version = "1.2.3"
+
+[[imports."hemikak/k8s_generated_client_v1.18.2:0.1.0"]]
+org_name = "hemikak"
+name = "k8s_models_v1.18.2"
+version = "0.1.0"
+
+[[imports."hemikak/k8s_connector_v1.18.2:0.1.0"]]
+org_name = "hemikak"
+name = "k8s_models_v1.18.2"
+version = "0.1.0"
+
+[[imports."hemikak/k8s_connector_v1.18.2:0.1.0"]]
+org_name = "hemikak"
+name = "k8s_generated_client_v1.18.2"
+version = "0.1.0"
